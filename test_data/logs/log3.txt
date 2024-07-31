@@ -1,0 +1,3 @@
+2023-07-30 14:34:56,789 INFO  [internal-server] Service started on 192.168.1.15
+2023-07-30 14:35:56,789 ERROR [example-hostname] Service failed on 172.16.10.1
+2023-07-30 14:36:56,789 WARN  [hostname1] Connection from public IP 192.0.2.44
